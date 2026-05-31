@@ -159,7 +159,7 @@ h1, h2, h3, h4 {
   justify-content: center;
   background:
     linear-gradient(135deg, rgba(10, 10, 10, 0.82) 0%, rgba(10, 10, 10, 0.4) 100%),
-    url('https://images.unsplash.com/photo-1585747861115-d7d1a98ec303?w=1920&q=80') center / cover no-repeat;
+    url('https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=1920&q=80') center / cover no-repeat;
   overflow: hidden;
 }
 
